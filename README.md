@@ -67,7 +67,7 @@ RMSE(X,h) = root(1/mi*sum(h(x(i)-y(i))2))
     Mean:  5.026691729826505
     Standard deviation :  1.0559260837947781
 
-### Random Forest Regressio
+### Random Forest Regression
     
     Mean:  3.317294704549673
     Standard deviation :  0.7190966217403666
